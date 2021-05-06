@@ -1,7 +1,7 @@
 ### Hi there :wave:
 
 ## I'm a Developer !
-- :telescope: I’m currently working as a Full Stack Developer!
+- :telescope:!
 
 <br />
 
